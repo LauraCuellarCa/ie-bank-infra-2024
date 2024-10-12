@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "lcuellar-dbsrv-dev"
+            "value": "lcuellar-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "lcuellar-db-dev"
+            "value": "lcuellar-db-uat"
         },
         "appServicePlanName": {
-            "value": "lcuellar-asp-dev"
+            "value": "lcuellar-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "lcuellar-be-dev"
+            "value": "lcuellar-be-uat"
         },
         "appServiceAppName": {
-            "value": "lcuellar-fe-dev"
+            "value": "lcuellar-fe-uat"
         },
         "location": {
             "value": "North Europe"
